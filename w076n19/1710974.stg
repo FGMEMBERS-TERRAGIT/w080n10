@@ -1,0 +1,2 @@
+OBJECT_SHARED Models/Airport/tacan.xml -75.2185 19.91 35.38 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -75.198794 19.904525 -0.01 180
