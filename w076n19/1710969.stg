@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Airport/ndb.ac -75.820917 19.972878 79.12 180
+OBJECT_SHARED Models/Airport/ils.xml -75.849339 19.970822 62.86 271.23
+OBJECT_SHARED Models/Communications/vordme_1.xml -75.822778 19.977778 64.85 180
+OBJECT_SHARED Models/Airport/marker.ac -75.867092 19.969625 0 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.870556 19.991944 -358.27 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.870278 19.993333 -373.51 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.87 19.992222 -394.84 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -75.869444 19.992778 -434.47 180
+OBJECT_SHARED Models/Power/generic_pylon_100m.ac -75.863056 19.998333 -0.01 180
+OBJECT_SHARED Models/Airport/localizer.xml -75.821094 19.972203 74.22 175.21

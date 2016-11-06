@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Airport/ndb.ac -75.530833 10.396667 2.92 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -75.5563195 10.4027165 -389.44 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -75.5554005 10.398205 -312.59 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -75.5549932 10.4043582 -382.69 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -75.5516888 10.4083579 -369.52 180
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -75.539275 10.4090327 -0.02 244.25
+OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -75.5396905 10.4083793 -0.02 187.43
+OBJECT_STATIC htbocag.xml -75.5509554 10.4102093 5.6 84
