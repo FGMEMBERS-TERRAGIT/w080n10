@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Airport/ils.xml -70.024808 12.502575 1.38 259.58
 OBJECT_SHARED Models/Communications/radio-medium.xml -70.029167 12.536111 -107.19 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -70.018177 12.505669 9.91 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -70.051395 12.6137487 8.86 0
